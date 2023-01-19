@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807033556182",
+    "project_id": "my-clg-app-a7bab",
+    "storage_bucket": "my-clg-app-a7bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807033556182:android:bed87181376c40b6468d77",
+        "android_client_info": {
+          "package_name": "com.example.collegeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807033556182-sbqhf1o2t23jhlp0nve8ialhvq389vfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9EWlDtc9GVjTPAifCbNK6gMtxQthGY8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807033556182-sbqhf1o2t23jhlp0nve8ialhvq389vfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
